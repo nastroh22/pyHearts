@@ -1,8 +1,8 @@
 import pygame as pyg
 import os
 import random
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+# import matplotlib.pyplot as plt
+# import matplotlib.image as mpimg
 
 
 CARDIR="card_pngs/"

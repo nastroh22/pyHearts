@@ -85,7 +85,6 @@ class HeartsGame:
         ))
 
 
-
     def play_hand(self):
 
         print(f"\nNew Hand {self.hand_id}"+"\n"+"-"*15)
